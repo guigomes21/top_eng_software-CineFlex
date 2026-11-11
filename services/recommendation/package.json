@@ -1,0 +1,8 @@
+{
+  "name": "@cineflex/recommendation",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "tsx watch src/index.ts", "start": "tsx src/index.ts"},
+  "dependencies": {"@cineflex/shared": "1.0.0", "express": "^5.1.0"},
+  "devDependencies": {"@types/express": "^5.0.1"}
+}

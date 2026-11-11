@@ -1,0 +1,24 @@
+{
+  "name": "cineflex",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Linha de Produto de Software CineFlex - Tópicos em Engenharia de Software",
+  "workspaces": ["apps/*", "services/*", "packages/*"],
+  "scripts": {
+    "dev": "concurrently -k -n catalog,history,recommendation,gateway,web -c blue,magenta,cyan,yellow,green \"npm run dev -w @cineflex/catalog\" \"npm run dev -w @cineflex/history\" \"npm run dev -w @cineflex/recommendation\" \"npm run dev -w @cineflex/gateway\" \"npm run dev -w @cineflex/web\"",
+    "dev:plus": "cross-env PRODUCT_CONFIG_PATH=products/cineflex-plus.json npm run dev",
+    "test": "tsx --test services/recommendation/src/recommender.test.ts packages/shared/src/config.test.ts",
+    "check": "tsc --noEmit -p apps/web/tsconfig.json && tsc --noEmit -p services/tsconfig.json",
+    "build:product": "node scripts/build-product.mjs",
+    "build:basic": "node scripts/build-product.mjs products/cineflex-basic.json",
+    "build:plus": "node scripts/build-product.mjs products/cineflex-plus.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "concurrently": "^9.2.1",
+    "cross-env": "^7.0.3",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "engines": {"node": ">=22.12.0"}
+}

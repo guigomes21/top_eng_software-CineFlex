@@ -1,0 +1,13 @@
+{
+  "name": "cineflex-basic",
+  "description": "Catálogo de filmes com histórico e recomendações por gênero.",
+  "features": {
+    "catalog": true,
+    "movieDetails": true,
+    "history": true,
+    "recommendations": true,
+    "favorites": false,
+    "genreFilter": false,
+    "darkTheme": false
+  }
+}

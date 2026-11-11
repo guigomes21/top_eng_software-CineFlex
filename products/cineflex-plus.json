@@ -1,0 +1,13 @@
+{
+  "name": "cineflex-plus",
+  "description": "Catálogo personalizável com favoritos, filtros e tema escuro.",
+  "features": {
+    "catalog": true,
+    "movieDetails": true,
+    "history": true,
+    "recommendations": true,
+    "favorites": true,
+    "genreFilter": true,
+    "darkTheme": true
+  }
+}

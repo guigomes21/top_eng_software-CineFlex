@@ -1,0 +1,20 @@
+[
+  {"id":1,"title":"Horizonte Vermelho","year":2024,"genre":"Ação","synopsis":"Uma piloto enfrenta uma missão impossível em uma colônia distante.","duration":118,"rating":8.7,"poster":"🚀","accent":"#e47d66"},
+  {"id":2,"title":"Código Aurora","year":2023,"genre":"Ação","synopsis":"Uma equipe tenta impedir um ataque a uma cidade conectada.","duration":106,"rating":8.3,"poster":"⚡","accent":"#dfb65f"},
+  {"id":3,"title":"Última Fronteira","year":2025,"genre":"Ação","synopsis":"Uma exploradora enfrenta desafios na busca por uma cidade perdida.","duration":124,"rating":9.0,"poster":"🏔️","accent":"#6e97ac"},
+  {"id":4,"title":"Maré de Estrelas","year":2022,"genre":"Ficção científica","synopsis":"Um cientista descobre sinais misteriosos vindos do oceano.","duration":112,"rating":8.4,"poster":"🌌","accent":"#7276bd"},
+  {"id":5,"title":"Órbita 9","year":2024,"genre":"Ficção científica","synopsis":"Uma tripulação investiga uma estação espacial abandonada.","duration":117,"rating":8.9,"poster":"🪐","accent":"#b391ca"},
+  {"id":6,"title":"Depois do Amanhã","year":2026,"genre":"Ficção científica","synopsis":"Uma mensagem do futuro muda o destino de duas famílias.","duration":103,"rating":8.1,"poster":"⌛","accent":"#668fad"},
+  {"id":7,"title":"Café das Sete","year":2021,"genre":"Romance","synopsis":"Dois desconhecidos se reencontram todos os dias no mesmo café.","duration":96,"rating":7.9,"poster":"☕","accent":"#c79a7e"},
+  {"id":8,"title":"Cartas de Inverno","year":2025,"genre":"Romance","synopsis":"Cartas antigas revelam uma história que atravessa gerações.","duration":109,"rating":8.6,"poster":"💌","accent":"#cf8e9e"},
+  {"id":9,"title":"Entre Estações","year":2023,"genre":"Romance","synopsis":"Dois músicos encontram inspiração em uma viagem de trem.","duration":101,"rating":7.8,"poster":"🌷","accent":"#b780ac"},
+  {"id":10,"title":"A Casa do Lago","year":2022,"genre":"Suspense","synopsis":"Um jornalista investiga o desaparecimento de um velho amigo.","duration":115,"rating":8.5,"poster":"🏚️","accent":"#798e88"},
+  {"id":11,"title":"Meia-Noite","year":2026,"genre":"Suspense","synopsis":"Um estranho bilhete transforma uma viagem em um enigma.","duration":104,"rating":8.2,"poster":"🌙","accent":"#53627e"},
+  {"id":12,"title":"Ponto Cego","year":2024,"genre":"Suspense","synopsis":"Uma investigadora procura pistas em uma cidade silenciosa.","duration":121,"rating":8.8,"poster":"🔎","accent":"#6b7e91"},
+  {"id":13,"title":"Domingo de Sol","year":2023,"genre":"Comédia","synopsis":"Uma família tenta organizar a reunião mais caótica do ano.","duration":92,"rating":8.1,"poster":"🌞","accent":"#e6b66a"},
+  {"id":14,"title":"Plano Imperfeito","year":2024,"genre":"Comédia","synopsis":"Três amigos criam um negócio que dá inesperadamente certo.","duration":98,"rating":8.0,"poster":"🎈","accent":"#d68175"},
+  {"id":15,"title":"Viagem de Improviso","year":2025,"genre":"Comédia","synopsis":"Uma viagem planejada em cinco minutos rende boas histórias.","duration":100,"rating":8.4,"poster":"🧳","accent":"#a4a86e"},
+  {"id":16,"title":"Bosque Encantado","year":2022,"genre":"Animação","synopsis":"Pequenos amigos protegem o segredo de uma floresta mágica.","duration":88,"rating":9.1,"poster":"🌲","accent":"#83af95"},
+  {"id":17,"title":"O Pequeno Farol","year":2025,"genre":"Animação","synopsis":"Uma luz viajante precisa encontrar seu caminho de volta.","duration":91,"rating":8.7,"poster":"🏮","accent":"#89aab6"},
+  {"id":18,"title":"Nuvens de Papel","year":2024,"genre":"Animação","synopsis":"Uma menina descobre um mundo escondido entre desenhos.","duration":94,"rating":8.8,"poster":"☁️","accent":"#b4a6d1"}
+]
