@@ -113,7 +113,3 @@ npm run check # Verificação estática de TypeScript
 O catálogo é carregado de `services/catalog/data/movies.json`. O histórico é criado automaticamente em `services/history/data/history.json` a partir de `history.seed.json` (esse arquivo gerado não é versionado). Para reiniciar a demonstração, pare o sistema e **exclua apenas** `history.json`; na próxima execução, os três registros de exemplo são restaurados. Favoritos são guardados no `localStorage` do navegador.
 
 **Observação:** os filmes são inventados, e os ícones ilustrativos são emojis. O projeto não faz streaming, autenticação real ou integração com serviços externos. O registro simples em JSON é adequado ao protótipo acadêmico, não a uma aplicação concorrente em produção.
-
-## Para documentar depois
-
-Registre capturas de tela do catálogo, detalhes, histórico, recomendação, configurador, diferenças Básico/Plus e painel de portas. A estrutura permite preparar diagrama de features, diagrama de componentes, arquitetura em camadas, variabilidade, Product Backlog e Sprint Backlog. Essas partes do relatório ainda não foram redigidas.
